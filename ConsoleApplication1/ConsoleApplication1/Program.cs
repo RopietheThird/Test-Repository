@@ -11,9 +11,13 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Derp derp derp");
-            
 
             Console.WriteLine("Derpity Herp durrr");
+
+            for (int i = 0; i < 3; i++)
+            {
+                Console.WriteLine(i);
+            }
             Console.Read();
         }
     }
