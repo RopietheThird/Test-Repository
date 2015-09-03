@@ -4,15 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestApplicationOne
+namespace TestApplication
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-            Console.WriteLine("Derp derp derp");
-            Console.Read();
         }
     }
 }
