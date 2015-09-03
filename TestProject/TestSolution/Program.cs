@@ -11,6 +11,13 @@ namespace TestSolution
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World. How are you today?");
+           
+
+            for (int i = 0; i<5; i++)
+            {
+                Console.WriteLine(i);
+                
+            }
             Console.Read();
         }
     }
