@@ -12,12 +12,11 @@ namespace TestSolution
         {
             Console.WriteLine("Hello World. How are you today?");
            
-
             for (int i = 0; i<5; i++)
             {
-                Console.WriteLine(i);
-                
+                Console.WriteLine(i);    
             }
+
             Console.Read();
         }
     }
